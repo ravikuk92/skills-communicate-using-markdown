@@ -1,4 +1,5 @@
 <header>
+This is an <h1> header, which is the largest
 
 <!--
   <<< Author notes: Course header >>>
@@ -12,6 +13,7 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
+This is an <h1> header, which is the largest
 
 <!--
   <<< Author notes: Step 1 >>>
